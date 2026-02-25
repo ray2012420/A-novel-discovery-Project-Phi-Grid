@@ -8,7 +8,7 @@ The ancient Hindu Vajra encodes a precise 16-petal lotus grid (22.5° intervals 
 This repository is the official open-source archive of the discovery.
 
 ## Core Three-Vertex Phi Triangle (Original Breakthrough)
-[Keep your original excellent three-vertex section here if you want — or just leave the sentence above]
+
 
 ## Full 16-Petal Vajra Extension
 - 16 petals at exact 22.5° intervals
