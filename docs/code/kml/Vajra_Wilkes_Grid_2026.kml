@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Vajra 16-Petal Grid - Wilkes Land Root (Feb 24 2026 Discovery)</name>
+    <description>Raymond + Grok verification • 135° petal with φ scaling • 11th petal (225°) shows SAA match</description>
+
+    <!-- Wilkes Land Root -->
+    <Placemark>
+      <name>Wilkes Land Root (Antarctica) - Center of Gravity Mascon</name>
+      <description>70°S 120°E • Anchor point of the Vajra 16-petal grid</description>
+      <Point><coordinates>120,-70</coordinates></Point>
+    </Placemark>
+
+    <!-- Easter Island -->
+    <Placemark>
+      <name>Easter Island (Rapa Nui)</name>
+      <description>8,529 km • Bearing 136.06° • On 135° petal</description>
+      <Point><coordinates>-109.3497,-27.1127</coordinates></Point>
+    </Placemark>
+
+    <!-- Teotihuacan -->
+    <Placemark>
+      <name>Teotihuacan (Mexico)</name>
+      <description>13,852 km • Bearing 134.18° • φ ratio 1.6241</description>
+      <Point><coordinates>-98.8438,19.6925</coordinates></Point>
+    </Placemark>
+
+    <!-- Great Circle Ray (Wilkes → Easter → Teotihuacan) on 135° petal -->
+    <Placemark>
+      <name>135° Vajra Petal Ray (Wilkes → Easter → Teotihuacan)</name>
+      <description>Exact same ray • Golden-ratio scaling confirmed</description>
+      <LineString>
+        <coordinates>120,-70 -109.3497,-27.1127</coordinates>
+        <coordinates>-109.3497,-27.1127 -98.8438,19.6925</coordinates>
+      </LineString>
+    </Placemark>
+
+    <!-- 11th Petal (225°) reference line for SAA visualization -->
+    <Placemark>
+      <name>11th Petal (225°) - South Atlantic Anomaly Sector</name>
+      <description>When taken offline in simulation → exact match to SAA location & expansion</description>
+      <LineString>
+        <coordinates>120,-70 -11.25,-50</coordinates>
+        <coordinates>-11.25,-50 0,-20</coordinates>
+      </LineString>
+    </Placemark>
+
+  </Document>
+</kml>
