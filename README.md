@@ -30,3 +30,5 @@ https://x.com/ray2012420/status/2026106329257984193
 This work is released for the benefit of humanity and scientific inquiry.
 
 **License:** GPL-2.0 (code) + Public Domain (data & paper)
+### License & Open Access
+​This research is released under the Creative Commons Attribution 4.0 International (CC BY 4.0). It is intended for open scientific use. This data is derived entirely from unclassified, public-domain sources (NASA/GRACE, TLE data) to assist in the identification of non-human technosignatures.
