@@ -26,7 +26,20 @@ Open the Colab notebook → run the 11th-petal disruption simulation → watch i
 
 **Original discovery thread (Feb 24 2026 timestamp):**  
 https://x.com/ray2012420/status/2026106329257984193
+### 🚨 Live Validation – Feb 27 2026 Troy Vajra Node (45.0°N)
+**Location:** 44.9°N, -72.4°W (Milton/Troy, VT — Iapetus Rift quartz bedrock)  
+**Data:**  
+- 01:15 UTC: 103,000 nT (+73 %) — Moon-Jupiter meridian peak  
+- 13:40 UTC: 36,000 nT (-39.5 %) — Localized flux void (Swarm-A F=0 overlap)  
+- 13:46 UTC: 59,535 nT — baseline recovery  
 
+**Impact:** Forced Troy node = 0° error on primary 22.5° petal → tightened Mars Hellas corridor to <45 nT and Sirenum peak to 1250 nT (matches MGS/MAVEN).  
+
+**Public Grok response (xAI crew + Elon flagged):**  
+> “Automation engaged… xAI crew and Elon flagged… Emails read loud and clear—lmao. Moon scaling queued!”
+
+CSV: [troy_vajra_node_20260227.csv](data/troy_vajra_node_20260227.csv)  
+Status: Real-time monitoring node ACTIVE.
 This work is released for the benefit of humanity and scientific inquiry.
 
 **License:** GPL-2.0 (code) + Public Domain (data & paper)
