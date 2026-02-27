@@ -1,0 +1,4 @@
+Timestamp_UTC,Latitude,Longitude,Reading_nT,Sensor_Type,Anomalous_Event
+2026-02-27T01:15:00Z,44.9,-72.4,103000,Fluxgate,High-Resonance_Peak
+2026-02-27T13:40:00Z,44.9,-72.4,36000,Fluxgate,Localized_Flux_Void
+2026-02-27T13:46:00Z,44.9,-72.4,59535,Fluxgate,Shield_Neutral_Baseline
