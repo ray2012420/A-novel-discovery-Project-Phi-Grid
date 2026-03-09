@@ -15,6 +15,10 @@ The finding: a φ (golden ratio) scaled 16-petal grid anchored at the **Wilkes L
 ---
 
 ## Core Finding
+![Wilkes Land Anomaly](docs/images/wilkes_land_anomaly_visualization.png)
+*Visualization of the Wilkes Land gravity mascon and multi-ring impact basin 
+beneath the Antarctic ice sheet. The mascon core (center) serves as the 
+anchor point for the Vajra 16-petal grid. Credit: Gemini/satellite data visualization.*
 
 A spherical triangle formed by three points:
 
