@@ -202,7 +202,7 @@ All errors were corrected openly and are documented in the commit history.
 **Code:** GPL-2.0  
 **Data & findings:** Creative Commons CC BY 4.0
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19025166.svg)](https://doi.org/10.5281/zenodo.19025166)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19025614.svg)](https://doi.org/10.5281/zenodo.19025614)
 
 If you use this work, please cite:
 
