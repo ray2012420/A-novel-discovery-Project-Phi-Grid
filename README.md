@@ -2,7 +2,7 @@
 ## Vajra 16-Petal Geodetic Resonance Mapping
 
 **Raymond Davis (@ray2012420) — February 2026**  
-**v8 — March 2026 | External review: Dr. Ciaran Beggan, British Geological Survey**
+**v13 — March 2026 | External review: Dr. Ciaran Beggan, British Geological Survey**
 
 ---
 
@@ -202,7 +202,7 @@ All errors were corrected openly and are documented in the commit history.
 **Code:** GPL-2.0  
 **Data & findings:** Creative Commons CC BY 4.0
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19025614.svg)](https://doi.org/10.5281/zenodo.19025614)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19035389.svg)](https://doi.org/10.5281/zenodo.19035389)
 
 If you use this work, please cite:
 
